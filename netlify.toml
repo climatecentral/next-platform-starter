@@ -1,3 +1,9 @@
 [build]
-  publish = ".next"
-  command = "npm run build"
+  # Always build for now
+  ignore = "exit 1"
+  
+[[redirects]]
+  from = "/"
+  to = "https://go.climatecentral.org/floodvision"
+  status = 301
+  force = true
