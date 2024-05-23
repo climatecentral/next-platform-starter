@@ -4,6 +4,6 @@
   
 [[redirects]]
   from = "/"
-  to = "https://go.climatecentral.org/floodvision"
+  to = "https://www.climatecentral.org/floodvision"
   status = 301
   force = true
